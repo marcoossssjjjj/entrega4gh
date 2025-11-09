@@ -1,6 +1,7 @@
 package Ejercicios;
 
 import java.util.List;
+import java.util.ArrayList;
 
 //Tablas Hash
 public class HashListas {
@@ -43,3 +44,4 @@ public class HashListas {
 	return false;
 	}
 }
+
